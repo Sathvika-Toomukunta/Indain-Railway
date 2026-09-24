@@ -1,0 +1,7 @@
+{
+  "name": "Indian Railways AI Block Planner",
+  "description": "AI-Powered Automatic Block Planning and smart timetable scheduler to maximize asset availability and balance train operations with track maintenance for Indian Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
